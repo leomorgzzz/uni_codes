@@ -1,3 +1,5 @@
+//codigo simple de primera clase irene
+
 #include <iostream>
 
 using namespace std;

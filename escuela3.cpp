@@ -1,3 +1,5 @@
+//codigo para punteros bidimensionales clase irene
+
 #include <iostream>
 
 using namespace std;

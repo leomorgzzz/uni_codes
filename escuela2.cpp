@@ -1,3 +1,5 @@
+//codigo para usar punteros simples clase irene
+
 #include <iostream>
 
 using namespace std;
